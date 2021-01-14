@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/tomoru55tom.github.io/reacttodo/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/tomoru55tom.github.io/reacttodo/static/js/main.f1bb56cb.chunk.js",
-    "main.js.map": "/tomoru55tom.github.io/reacttodo/static/js/main.f1bb56cb.chunk.js.map",
-    "runtime-main.js": "/tomoru55tom.github.io/reacttodo/static/js/runtime-main.45ef743c.js",
-    "runtime-main.js.map": "/tomoru55tom.github.io/reacttodo/static/js/runtime-main.45ef743c.js.map",
-    "static/js/2.0a22aec6.chunk.js": "/tomoru55tom.github.io/reacttodo/static/js/2.0a22aec6.chunk.js",
-    "static/js/2.0a22aec6.chunk.js.map": "/tomoru55tom.github.io/reacttodo/static/js/2.0a22aec6.chunk.js.map",
-    "static/js/3.367d4793.chunk.js": "/tomoru55tom.github.io/reacttodo/static/js/3.367d4793.chunk.js",
-    "static/js/3.367d4793.chunk.js.map": "/tomoru55tom.github.io/reacttodo/static/js/3.367d4793.chunk.js.map",
-    "index.html": "/tomoru55tom.github.io/reacttodo/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/tomoru55tom.github.io/reacttodo/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.0a22aec6.chunk.js.LICENSE.txt": "/tomoru55tom.github.io/reacttodo/static/js/2.0a22aec6.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/tomoru55tom.github.io/reacttodo/static/media/logo.6ce24c58.svg"
+    "main.css": "/reacttodo/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/reacttodo/static/js/main.f1bb56cb.chunk.js",
+    "main.js.map": "/reacttodo/static/js/main.f1bb56cb.chunk.js.map",
+    "runtime-main.js": "/reacttodo/static/js/runtime-main.ef4a6f8c.js",
+    "runtime-main.js.map": "/reacttodo/static/js/runtime-main.ef4a6f8c.js.map",
+    "static/js/2.0a22aec6.chunk.js": "/reacttodo/static/js/2.0a22aec6.chunk.js",
+    "static/js/2.0a22aec6.chunk.js.map": "/reacttodo/static/js/2.0a22aec6.chunk.js.map",
+    "static/js/3.367d4793.chunk.js": "/reacttodo/static/js/3.367d4793.chunk.js",
+    "static/js/3.367d4793.chunk.js.map": "/reacttodo/static/js/3.367d4793.chunk.js.map",
+    "index.html": "/reacttodo/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/reacttodo/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.0a22aec6.chunk.js.LICENSE.txt": "/reacttodo/static/js/2.0a22aec6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/reacttodo/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.45ef743c.js",
+    "static/js/runtime-main.ef4a6f8c.js",
     "static/js/2.0a22aec6.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.f1bb56cb.chunk.js"
